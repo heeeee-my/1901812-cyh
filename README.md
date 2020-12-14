@@ -8,5 +8,5 @@ Screenshots
   <img width="664" alt="crime_2019" src="https://user-images.githubusercontent.com/75995222/102112507-20f8ae00-3e7b-11eb-8e99-1a71f92c2ef6.png">
   <img width="224" alt="crime_norm" src="https://user-images.githubusercontent.com/75995222/102112993-d62b6600-3e7b-11eb-9eb4-2768e69d0b17.png">
   <img width="604" alt="normalized_crime" src="https://user-images.githubusercontent.com/75995222/102113778-c82a1500-3e7c-11eb-8afa-9076bed2aada.png">
-  <img width="602" alt="normalized_arrest" src="https://user-images.githubusercontent.com/75995222/102114323-64ecb280-3e7d-11eb-927c-e86f4766a141.png">
+  <img width="602" alt="normalized_arrest" src="https://user-images.githubusercontent.com/75995222/102114323-64ecb280-3e7d-11eb-927c-e86f4766a141.png">   <img width="447" alt="hm_crime_corr" src="https://user-images.githubusercontent.com/75995222/102115010-4509be80-3e7e-11eb-901d-0f3d33d72356.png">
 </div>
